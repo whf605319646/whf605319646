@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" /></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" /></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" /></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" /></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" /></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /></code>
