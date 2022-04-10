@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on company of Egova as a FE.
+- 🔭 I’m currently working as a FE.
 - 🌱 I’m currently learning javascript 4th book.
 - 📫 How to reach me: [Iwen's Blog](www.hfwang.win)
 ### Languages and Tools:
